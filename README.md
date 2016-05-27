@@ -10,3 +10,4 @@ Instructions for contributing to this project may be found in the [CONTRIBUTING.
 ## Wifi hotspots
 
 ## Best of Orvieto
+explore the trails
